@@ -2,6 +2,8 @@
 
 我使用C++, 汇编语言和Visual Basic Classic进行编程, 擅长于Windows API的使用. 未来的研究方向有Java, Python, Rust, html, css,  jQuery, GTK, OpenGL等.
 
+*C++ Primer*, *Effective C++* 学习中.
+
 我对Windows Beta比较感兴趣.
 
 我正在建造一个博客, 地址是[https://ghdgtdgu.github.io](https://ghdgtdgu.github.io). (尚未建成)
