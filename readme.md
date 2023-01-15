@@ -6,7 +6,7 @@
 
 我对Windows Beta比较感兴趣.
 
-我正在建造一个博客, 地址是[https://ghdgtdgu.github.io](https://ghdgtdgu.github.io). (尚未建成)
+我正在建造一个博客, 地址是[https://ghdgtdgu.github.io](https://ghdgtdgu.github.io).
 
 我拥有一个和Github用户名同名的bilibili账户.
 
